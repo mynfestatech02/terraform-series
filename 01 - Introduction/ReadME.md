@@ -1,4 +1,4 @@
-# Terraform & AWS CLI Installation
+# Terraform & AWS CLI Installation.
 
 ## A) Prerequisites
 - Install Terraform CLI
