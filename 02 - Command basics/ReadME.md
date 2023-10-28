@@ -1,4 +1,4 @@
-# Terraform Command Basics
+# Terraform Command Basics.
 
 ## Step-01: Terraform configuration files
    - Terraform uses declarative syntax to describe your Infrastructure as Code (IaC) infrastructure
